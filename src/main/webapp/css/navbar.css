@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28 janv. 2021, 15:25:22
+    Author     : HB
+*/
+
+body{
+    margin: 0;
+}
+
+.navBar{
+    display: flex;
+    background-color: rgba(240, 240, 240, 1);
+    height: 5vh;
+}
+
+.navBar h4{
+    margin: 0.5% 2.5% 0 0;
+}
+
+.navBar a{
+    margin: 0.5% 1%; 
+}
+
+
+

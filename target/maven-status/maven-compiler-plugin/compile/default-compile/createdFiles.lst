@@ -1,0 +1,9 @@
+com\humanbooster\repertoire\services\UsersService.class
+com\humanbooster\repertoire\servlets\ModifUtilisateurServlet.class
+com\humanbooster\repertoire\servlets\DeconnectionServlet.class
+com\humanbooster\repertoire\models\Users.class
+com\humanbooster\repertoire\servlets\AccueilServlet.class
+com\humanbooster\repertoire\servlets\DetailsUserServlet.class
+com\humanbooster\repertoire\servlets\AdminServlet.class
+com\humanbooster\repertoire\servlets\LoginServlet.class
+com\humanbooster\repertoire\utils\DataConnect.class

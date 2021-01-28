@@ -1,0 +1,47 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28 janv. 2021, 14:59:49
+    Author     : HB
+*/
+
+body{
+    height: 100%;
+    background-color: rgba(50, 50, 50, 0.8);
+}
+
+.layout{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: solid black 1px;
+    border-radius: 25px;
+    width: 25%;
+    margin-top: 5%;
+    background-color: rgba(240, 240, 240, 0.8);
+}
+
+h1{
+    margin : 7% 0;
+}
+
+form{
+   display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input{
+    text-align: center;
+    margin: 2% 0;
+}
+
+#submit{
+    margin : 7% 0;
+}
